@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\movement.cs" />
+    <Compile Include="Assets\Scripts\saveload.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/cnunn/Documents/Class/Engines/Idivi Assignment 1/Indiv Assignment 1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
